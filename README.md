@@ -1,4 +1,4 @@
-## talks (not updated)
+## talks (not updated), see squirrel.lu
 
 |date|conf|title|
 |----|----|-----|
